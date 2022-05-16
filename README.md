@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **shampee/shampee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shampee&layout=compact&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shampee&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shampee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
