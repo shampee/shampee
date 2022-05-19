@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shampee&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shampee&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shampee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
